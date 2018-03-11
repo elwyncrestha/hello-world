@@ -1,3 +1,3 @@
 # hello-world
 This is the first repository of my GitHub
-This is me, Elvin Shrestha.
+I've replaced my introduction with this line.
